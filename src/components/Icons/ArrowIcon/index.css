@@ -1,0 +1,33 @@
+.arrow-up-icon svg,
+.arrow-down-icon svg,
+.arrow-left-icon svg,
+.arrow-right-icon svg {
+  display: block;
+}
+
+.arrow-up-icon {
+  transform: rotate(270deg);
+}
+
+.arrow-down-icon {
+  transform: rotate(90deg);
+}
+
+.arrow-left-icon {
+  transform: rotate(180deg);
+}
+
+.arrow-up-icon.clickable,
+.arrow-down-icon.clickable,
+.arrow-left-icon.clickable,
+.arrow-right-icon.clickable {
+  cursor: pointer
+}
+
+.arrow-up-icon.disabled,
+.arrow-down-icon.disabled,
+.arrow-left-icon.disabled,
+.arrow-right-icon.disabled {
+  opacity: 0.4;
+  cursor: auto
+}

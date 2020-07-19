@@ -1,0 +1,16 @@
+.track {
+  display: flex;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+}
+
+.track .track-item {
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.track .arrow-right-icon {
+  margin-left: auto;
+}
