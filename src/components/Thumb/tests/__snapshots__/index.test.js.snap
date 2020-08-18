@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Thumb component renders correctly 1`] = `
+<div
+  className="thumb"
+>
+  <div
+    className="content"
+    style={Object {}}
+  >
+    <img
+      alt="thumb"
+      className="image"
+      src="https://designshack.net/wp-content/uploads/placeholder-image.png"
+    />
+    <div
+      className="play-icon"
+    />
+  </div>
+</div>
+`;

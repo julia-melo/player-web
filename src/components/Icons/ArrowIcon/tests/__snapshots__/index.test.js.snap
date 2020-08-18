@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArrowDownIcon component renders correctly 1`] = `
+<div
+  className="arrow-down-icon  "
+/>
+`;
+
+exports[`ArrowLeftIcon component renders correctly 1`] = `
+<div
+  className="arrow-left-icon  "
+/>
+`;
+
+exports[`ArrowRightIcon component renders correctly 1`] = `
+<div
+  className="arrow-right-icon  "
+/>
+`;
+
+exports[`ArrowUpIcon component renders correctly 1`] = `
+<div
+  className="arrow-up-icon  "
+/>
+`;

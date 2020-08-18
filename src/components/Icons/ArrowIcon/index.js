@@ -47,4 +47,6 @@ const ArrowDownIcon = props => (
   <ArrowIcon className='arrow-down-icon' {...props} />
 )
 
+
+export default ArrowIcon
 export { ArrowUpIcon, ArrowDownIcon, ArrowLeftIcon, ArrowRightIcon }

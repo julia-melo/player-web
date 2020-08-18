@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Track component renders correctly 1`] = `
+<div
+  className="track"
+>
+  <div
+    className="arrow-left-icon disabled "
+  />
+  <div
+    className="track-item"
+  >
+    item example
+  </div>
+  <div
+    className="arrow-right-icon  "
+  />
+</div>
+`;

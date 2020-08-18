@@ -1,0 +1,197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component renders correctly 1`] = `
+<div
+  className="home"
+>
+  <div
+    className="player"
+  >
+    <p
+      className="title"
+    >
+      Você não vai acreditar no que esse gatinho fez
+    </p>
+    <div
+      className="content"
+      onClick={[Function]}
+    >
+      <div
+        className="thumb"
+      >
+        <div
+          className="content"
+          style={Object {}}
+        >
+          <img
+            alt="thumb"
+            className="image"
+            src="https://i.ytimg.com/vi/dGFSjKuJfrI/maxresdefault.jpg"
+          />
+          <div
+            className="play-icon"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="recommendations"
+  >
+    <div
+      className="track"
+    >
+      <div
+        className="arrow-left-icon disabled "
+      />
+      <div
+        className="track-item"
+      >
+        <div
+          className="thumb"
+        >
+          <div
+            className="content"
+            style={
+              Object {
+                "height": "100px",
+                "width": "160px",
+              }
+            }
+          >
+            <img
+              alt="thumb"
+              className="image"
+              src="https://petgusto.com/wp-content/uploads/2017/08/gatos-fofos-e-engracados-1.jpg"
+            />
+            <div
+              className="play-icon"
+            />
+          </div>
+          <p
+            className="title"
+            style={
+              Object {
+                "width": "160px",
+              }
+            }
+          >
+            Gatinhos encontram câmera escondida
+          </p>
+        </div>
+      </div>
+      <div
+        className="track-item"
+      >
+        <div
+          className="thumb"
+        >
+          <div
+            className="content"
+            style={
+              Object {
+                "height": "100px",
+                "width": "160px",
+              }
+            }
+          >
+            <img
+              alt="thumb"
+              className="image"
+              src="https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/g/gato-notebook-internet-0817-1400x800.jpg"
+            />
+            <div
+              className="play-icon"
+            />
+          </div>
+          <p
+            className="title"
+            style={
+              Object {
+                "width": "160px",
+              }
+            }
+          >
+            Home office com gatinhos
+          </p>
+        </div>
+      </div>
+      <div
+        className="track-item"
+      >
+        <div
+          className="thumb"
+        >
+          <div
+            className="content"
+            style={
+              Object {
+                "height": "100px",
+                "width": "160px",
+              }
+            }
+          >
+            <img
+              alt="thumb"
+              className="image"
+              src="https://i.ytimg.com/vi/9kkIzivnC78/maxresdefault.jpg"
+            />
+            <div
+              className="play-icon"
+            />
+          </div>
+          <p
+            className="title"
+            style={
+              Object {
+                "width": "160px",
+              }
+            }
+          >
+            Top 10 momentos de gatinhos na internet
+          </p>
+        </div>
+      </div>
+      <div
+        className="track-item"
+      >
+        <div
+          className="thumb"
+        >
+          <div
+            className="content"
+            style={
+              Object {
+                "height": "100px",
+                "width": "160px",
+              }
+            }
+          >
+            <img
+              alt="thumb"
+              className="image"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSW53eTqgSobpTAHa3I1C2XOTHFdJkFTA5Keg&usqp=CAU"
+            />
+            <div
+              className="play-icon"
+            />
+          </div>
+          <p
+            className="title"
+            style={
+              Object {
+                "width": "160px",
+              }
+            }
+          >
+            Conheça o gatinho mais fofo do universo
+          </p>
+        </div>
+      </div>
+      <div
+        className="arrow-right-icon  "
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -10,13 +10,15 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "react-svg": "^11.0.31"
+    "react-svg": "^11.0.31",
+    "react-test-renderer": "^16.13.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/"
+    "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/",
+    "coverage": "react-scripts test --coverage --watchAll"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -42,5 +44,9 @@
       "pre-commit": "yarn lint",
       "pre-push": "yarn test"
     }
-  }
+  },
+  "collectCoverageFrom": [
+    "!**/App.{js}",
+    "**/*.{js}"
+  ]
 }
